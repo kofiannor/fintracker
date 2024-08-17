@@ -1,3 +1,5 @@
+// ignore_for_file: use_build_context_synchronously
+
 import 'package:events_emitter/listener.dart';
 import 'package:fintracker/dao/account_dao.dart';
 import 'package:fintracker/dao/category_dao.dart';
